@@ -1,0 +1,11 @@
+md5: a5e0cbbb72b2d8d35c0f21f3950bd5cc
+frozen: true
+deps:
+- path: data/Test markup.xml
+  repo:
+    url: https://github.com/NikitaSUAI/TTS-pipeline.git
+    rev_lock: 710aed503f4974488c582c8731addfec7082d30e
+outs:
+- md5: 5956deb337225d4d1bfacb3b10deddb5
+  size: 343149361
+  path: Test markup.xml
