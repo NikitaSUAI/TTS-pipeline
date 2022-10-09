@@ -2,3 +2,5 @@
     remote = gretta
 ['remote "gretta"']
     url = gdrive://1yYTvNMvSoOM71Prvvg_-L-ZPYCzwyIef
+    gdrive_client_id = 416888422771-btdv9ln40pdack6c5b10ld1bfvh64rkf.apps.googleusercontent.com
+    gdrive_client_secret = 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

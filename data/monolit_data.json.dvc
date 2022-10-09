@@ -1,0 +1,4 @@
+outs:
+- md5: 3b34f8befb35d76946de6187cfb2acda
+  size: 13182841
+  path: monolit_data.json
