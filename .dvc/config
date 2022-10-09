@@ -1,0 +1,4 @@
+[core]
+    remote = gretta
+['remote "gretta"']
+    url = gdrive://1yYTvNMvSoOM71Prvvg_-L-ZPYCzwyIef
