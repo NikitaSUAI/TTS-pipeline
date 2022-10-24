@@ -1,6 +1,5 @@
 # TTS-pipeline
-Simple tts models
+TTS-ITMO course
 
-Available 
-* small russian dataset from "Мастер и маргорита" in dvc storage
-* pause detection
+* "Мастер и маргорита" in dvc storage
+* Lab 1: Prosodic detector - Pause detection.ipynb
