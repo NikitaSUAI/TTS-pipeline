@@ -1,3 +1,5 @@
 /Test markup.xml
 /monolit_data.json
 /by_sentance_data.json
+/glove.model
+/lgbm_model.json
